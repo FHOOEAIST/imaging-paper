@@ -1,14 +1,14 @@
-# <Project name >
+# Imaging Framework Paper
 
-<project description>
+Replication repository for [Imaging Framework](https://github.com/FHOOEAIST/imaging) paper.
 
 ## Getting Started
 
-<Write how to get started. e.g. which dependencies are required, how you can build the project. and how you can start.>
+Run the tests using Maven and Java 11 by executing the following command:
 
-## FAQ
-
-If you have any questions, please checkout our <insert FAQ link here if using maven site, otherwise write a small FAQ section here>.
+```bash
+mvn clean test
+```
 
 ## Contributing
 
@@ -16,7 +16,7 @@ If you have any questions, please checkout our <insert FAQ link here if using ma
    
 ## Licence
 
-Copyright (c) 2020 the original author or authors.
+Copyright (c) 2021 the original author or authors.
 DO NOT ALTER OR REMOVE COPYRIGHT NOTICES.
 
 This Source Code Form is subject to the terms of the Mozilla Public
